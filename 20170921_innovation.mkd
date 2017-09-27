@@ -27,16 +27,90 @@ Pour vous en convaincre, regardez l'évolution de specialized depuis 2010. Qu'a 
 
 Bon tout ça pour dire que tout le pognon qui passe pas en R&D ne finira jamais en innovation! 
 
-Enfin, un dernier point, l'uci a également contribué à 
-le coup de l'uci à norMe vélo lobbing des grandes marques!
+Enfin, un dernier point, l'uci a également contribué à cette panne de l'innovation, en effet l'évoulion des réglements à beaucoup contribuer le ralentissement des avancées techniques.
+On peut définir trois évènemets majeurs dans les modifications réglementaires :
+
+- ajout de la règle du poids minimum de 6.8kg
+- ajout d'une labélisation obligatoire pour les roues
+- ajout d'une labélisation obligatoire pour les cadres
+
+Le premier point a eu pour effet de stopper bons nombres de travaux de R&D sur l'optimisation podis/rigidité/solidité des matériaux…
+Les deux autres a pour effet de faire réfléchir les nouveaux arrivants et les «petits»  avant de se lancer sur le marché avant de se lancer. Sur ce point, je reste que des lobbistes des grosses marques ont bien bossé pour faire cracher ce genre de point de réglement liberticides.
 
 
+## Bon quoi de neuf??
+
+Sur les cinqs dernières années, il y a queques avancées même s'il ne s'agit pas d'innovation à prorpement parlé. En effet, les :
+
+- transmissions éléctriques
+- freins à disques
+- capteurs de puissances
+- Composants aux prorpiétés aéro-dynamiques toujours meilleures (ça reste d'ailleurs à prouver)
+
+Mais aux termes de ces salons 2017, je retiens encore une fois peu de chose (pour le cyclisme sur route), on a vraiment l'impression que les constructeurs sont en train de passer leur puissance d'investissement sur le segment du vélo électriques…
 
 
-Tout n'est pas noir : l'électrique, les freins à disques les roues 29" et 27,5".
+Bon voilà, pour le matériel, passons à l'optimisation du bonhomme, autrement dit, l'entrainement.
 
-Les vielles pratiques : le vélo électriques…
+
 
 
 # Innovation des techniques d'entrainement
+
+Bon tournons-nous du côté de l'entrainement pour faire un passage en revue des évoultions des techniques et du matériels d'entrainement.
+Globalement, ces 5 dernières années, on a pu noter une vulgarisation des techniques expérimenter au niveau de l'élite. On voit de plus en plus de cyclistes et de triathlètes dotés d'un capteun de puissance, et pas seulement pour faire joli et montré aux copains qu'on vient de claquer 2000€ dans un nouveau jouet.
+
+Pour s'en persuadé, il suffit de faire un tour dans les rubriques de la presse spécialisé qui s'est adaptée dans le contenu de ces rubriques d'entrainement :
+
+Quelques exemples disponibles sur le web :
+
+- sur [velo channel](https://www.velochannel.com/comment-gagner-en-puissance-8458)
+- sur [top velo (anciennement nutricycle)](https://www.topvelo.fr/dossier-entrainement-velo-entrainement-cyclisme-developper-sa-puissance-maximale-aerobie-2-544.html)
+
+NB : les revues papiers ne sont pas en reste mais comme aucune n'a de converge format électronique (je parle pas de pdf…) - papier, il n'y a pas de contenu à citer!
+
+D'une manière générale, coursiers de cri-cri mis à part, les pratiques et entrainement ce sont structurés notamment pour le pratiquant cyclosportif qui se contente plus seulement d'aligner que des  Km à vitesse moyens.
+
+# Influence de strava
+
+Strava dont j'avas fait une présentation rapide [ici](http://velo-trainer.fr/dossier-strava-un-outil-ludique-et-utile-pour-le-cycliste-2-0/) à permis directement de proposer deux choses importantes :
+
+- un outil de suivi automatisé (importation…) de l'activité et des outils d'analyses de la performances gratuits
+- une mise en lumière de la pratique exact de chacun
+
+Ces deux outils qui permettent par une sorte de mise en concurrence avec d'autres cyclistes dont a pas forcément l'occasion «d'affronter» dirrectement et une analyse de leur pratique ains qu'une remise en cause de sa propre pratique.
+
+## Bon sinon quoi de nouveau?
+
+Du côté de l'entrainement, je vous ai trouvé deux innovations qui pourrait à court terme changer les moeurs et coutumes :
+
+## La pilule connectée
+
+Je connaissant le concept mais je ne pensais pas que ce genre de produit était commercialisé… J'ai découvert les capsules connectés [Bodycap](http://bodycap-medical.com/fr/produit/ecelsius-performance) (produit Frrançais) lors de la [conférence Science and cycling](http://science-cycling.org/). 
+Ce genre de produit permet de récupérer des informations (température par exemple) afin d'optimiser la régulation thermique par le coureur en vue d'améliorer la performance et/ou la récupération.
+Bon, ce genre de produit quasi-invasif me pose tout de même des problèmes de consciences et d'éthiques… Est ce qu'il faut vraiment aller dans cette voie? C'est un peu la porte ouverte aux dossiers médicaux en mode puce RFID sous-cutanés?, non?
+Bon onverra si le legislateur met son véto ou non…
+
+## Le capteur de puissance efficace
+
+Développer de la puissance c'est bien mais, de la puissance qui sert à avancer c'est mieux! En effet, seule la force appliquée perpendiculairement à la manivelle permet de faire avancée le vélo, le reste c'est de la perte…
+
+Malheureusement (1) lors d'un cycle de pédalage la puissance appliqué sur la manivelle ne l'est rarement perpendiculaire à celle-ci. Je vous passe les formule trigonométrique mais seul une partie est compté dans la puissance efficace.
+
+Malheureusement (2) les capteurs du marché ne mesure pas la puissance efficace ni même le rendement de votre coup pédale (rapport entre la puissance efficace et la puissance tototale).
+
+Sauf que les capteurs puissances efficaces en fait ça existe et ça va arriver sur le marché à plus ou moins court terme. Je peux au moins vous citer [Forped](http://www.forped.eu/) qui propose ce produit (4000€) 
+
+L'intérêt?
+
+C'est simple, s'entrainer pour faire augmenter sa puissance c'est bien. Augmenter la puissance qui sert à avancer c'est mieux! Cette outil d'entrainement n'a pas d'autre but que de faire travailler votre geste pour le rendre le plus efficace possible.
+
+C'est cher!
+
+Oui c'est cher mais pour avoir discuté avec les ingénieurs en charge du projet, les technologies utilisés sont assez maitrisé dans d'autres domaines (motion capture), ce qui laisse penser qu'on peut réduire le prix par 4 facilemnt!
+
+
+
+# Pour aller plus loin :
+
 
