@@ -1,3 +1,5 @@
+**Plus d'innovation dans le vélo?**
+
 Nous sommes en septembre, l'eurobike, la grande sauterie des manufacturiers du vélo est terminée.
 La saison cycliste sur route touche également à sa fin, l'heure des bilans arrive…
 Mais plutôt que se focaliser sur les résultats des courses pro, prenons de la hauteur et jetons un oeil critique sur la discipline dans son entier pour juger un peu de son évolution autant sur le matéreil que sur les techniques d'entrainement.
@@ -54,7 +56,7 @@ Bon voilà, pour le matériel, passons à l'optimisation du bonhomme, autrement 
 
 
 
-
+i
 # Innovation des techniques d'entrainement
 
 Bon tournons-nous du côté de l'entrainement pour faire un passage en revue des évoultions des techniques et du matériels d'entrainement.
@@ -70,8 +72,9 @@ Quelques exemples disponibles sur le web :
 NB : les revues papiers ne sont pas en reste mais comme aucune n'a de converge format électronique (je parle pas de pdf…) - papier, il n'y a pas de contenu à citer!
 
 D'une manière générale, coursiers de cri-cri mis à part, les pratiques et entrainement ce sont structurés notamment pour le pratiquant cyclosportif qui se contente plus seulement d'aligner que des  Km à vitesse moyens.
-
+i
 # Influence de strava
+
 
 Strava dont j'avas fait une présentation rapide [ici](http://velo-trainer.fr/dossier-strava-un-outil-ludique-et-utile-pour-le-cycliste-2-0/) à permis directement de proposer deux choses importantes :
 
@@ -83,15 +86,16 @@ Ces deux outils qui permettent par une sorte de mise en concurrence avec d'autre
 ## Bon sinon quoi de nouveau?
 
 Du côté de l'entrainement, je vous ai trouvé deux innovations qui pourrait à court terme changer les moeurs et coutumes :
-
+i
 ## La pilule connectée
 
 Je connaissant le concept mais je ne pensais pas que ce genre de produit était commercialisé… J'ai découvert les capsules connectés [Bodycap](http://bodycap-medical.com/fr/produit/ecelsius-performance) (produit Frrançais) lors de la [conférence Science and cycling](http://science-cycling.org/). 
 Ce genre de produit permet de récupérer des informations (température par exemple) afin d'optimiser la régulation thermique par le coureur en vue d'améliorer la performance et/ou la récupération.
 Bon, ce genre de produit quasi-invasif me pose tout de même des problèmes de consciences et d'éthiques… Est ce qu'il faut vraiment aller dans cette voie? C'est un peu la porte ouverte aux dossiers médicaux en mode puce RFID sous-cutanés?, non?
 Bon onverra si le legislateur met son véto ou non…
-
+i
 ## Le capteur de puissance efficace
+
 
 Développer de la puissance c'est bien mais, de la puissance qui sert à avancer c'est mieux! En effet, seule la force appliquée perpendiculairement à la manivelle permet de faire avancée le vélo, le reste c'est de la perte…
 
@@ -110,7 +114,11 @@ C'est cher!
 Oui c'est cher mais pour avoir discuté avec les ingénieurs en charge du projet, les technologies utilisés sont assez maitrisé dans d'autres domaines (motion capture), ce qui laisse penser qu'on peut réduire le prix par 4 facilemnt!
 
 
+# Bon alors …
 
-# Pour aller plus loin :
+Que dire en conclusion?
+Que oui les innovations majeurs sons monnaie rare depuis presque 10 ans, la faue a un conteste économique, à un changement de paradgime (que certain appellle la révolution numérique), à une manque d'investissement en R&D des différents acteurs…
+On peut retenir également que c'est le segment lié à l'entrainement qui compte le plus d'évolution et d'innovatio(n actuellement porté par les objets connecté à la miniaturation de capteurs électroniques.
+
 
 
